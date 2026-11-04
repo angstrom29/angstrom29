@@ -26,6 +26,10 @@ Based in **Metro Manila, Philippines**. My approach is simple: start with the es
 | CRM & Marketing Automation | GoHighLevel |
 | Custom Automation | Google Apps Script |
 
+## Certifications
+
+[View my certifications and digital badges on Credly](https://www.credly.com/users/automatewithjohn)
+
 ## How I Work
 
 **Understand the process → Build the smallest useful solution → Test real scenarios → Document the handoff**
